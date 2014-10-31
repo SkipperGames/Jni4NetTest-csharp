@@ -1,0 +1,11 @@
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\jni4net.j-0.8.8.0.jar
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\jni4net.n.w32.v40-0.8.8.0.dll
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\testjar.j4n.jar
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\testjar.jar
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\Jni4NetTest.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\Jni4NetTest.pdb
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\jni4net.n-0.8.8.0.dll
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\bin\Debug\testjar.j4n.dll
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\obj\x86\Debug\Jni4NetTest.csprojResolveAssemblyReference.cache
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\obj\x86\Debug\Jni4NetTest.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Jni4NetTest\Jni4NetTest\obj\x86\Debug\Jni4NetTest.pdb
